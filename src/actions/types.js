@@ -1,0 +1,5 @@
+export const CREATE_TAB = 'CREATE_TAB';
+export const CHANGE_INPUT = 'CHANGE_INPUT';
+export const SET_ACTIVE_TAB = 'SET_ACTIVE_TAB';
+export const REMOVE_TAB = 'REMOVE_TAB';
+export const CHANGE_TAB_CONTENT = 'CHANGE_TAB_CONTENT';
